@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="722" started-at="2018-02-16T14:38:05Z" finished-at="2018-02-16T14:38:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="722" started-at="2018-02-16T14:38:05Z" finished-at="2018-02-16T14:38:05Z">
+      <class name="example.NewTest2">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:example.NewTest2@4cc0edeb]" name="beforeTest" is-config="true" duration-ms="7" started-at="2018-02-16T09:38:05Z" finished-at="2018-02-16T09:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:example.NewTest2@4cc0edeb]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-02-16T09:38:05Z" finished-at="2018-02-16T09:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:example.NewTest2@4cc0edeb]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-02-16T09:38:05Z" finished-at="2018-02-16T09:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="f1()[pri:0, instance:example.NewTest2@4cc0edeb]" name="f1" duration-ms="5" started-at="2018-02-16T09:38:05Z" finished-at="2018-02-16T09:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:example.NewTest2@4cc0edeb]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-16T09:38:05Z" finished-at="2018-02-16T09:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:example.NewTest2@4cc0edeb]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-02-16T09:38:05Z" finished-at="2018-02-16T09:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test(java.lang.String)[pri:0, instance:example.NewTest2@4cc0edeb]" name="test" duration-ms="2" started-at="2018-02-16T09:38:05Z" data-provider="Authentication" finished-at="2018-02-16T09:38:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:example.NewTest2@4cc0edeb]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-02-16T09:38:05Z" finished-at="2018-02-16T09:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:example.NewTest2@4cc0edeb]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-16T09:38:05Z" finished-at="2018-02-16T09:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="test(java.lang.String)[pri:0, instance:example.NewTest2@4cc0edeb]" name="test" duration-ms="1" started-at="2018-02-16T09:38:05Z" data-provider="Authentication" finished-at="2018-02-16T09:38:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:example.NewTest2@4cc0edeb]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-16T09:38:05Z" finished-at="2018-02-16T09:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:example.NewTest2@4cc0edeb]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-02-16T09:38:05Z" finished-at="2018-02-16T09:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="test(java.lang.String)[pri:0, instance:example.NewTest2@4cc0edeb]" name="test" duration-ms="1" started-at="2018-02-16T09:38:05Z" data-provider="Authentication" finished-at="2018-02-16T09:38:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String)[pri:0, instance:example.NewTest2@4cc0edeb]" name="test" duration-ms="1" started-at="2018-02-16T09:38:05Z" data-provider="Authentication" finished-at="2018-02-16T09:38:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:example.NewTest2@4cc0edeb]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-16T09:38:05Z" finished-at="2018-02-16T09:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:example.NewTest2@4cc0edeb]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-02-16T09:38:05Z" finished-at="2018-02-16T09:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:example.NewTest2@4cc0edeb]" name="beforeMethod" is-config="true" duration-ms="1" started-at="2018-02-16T09:38:05Z" finished-at="2018-02-16T09:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:example.NewTest2@4cc0edeb]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-16T09:38:05Z" finished-at="2018-02-16T09:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="test(java.lang.String)[pri:0, instance:example.NewTest2@4cc0edeb]" name="test" duration-ms="1" started-at="2018-02-16T09:38:05Z" data-provider="Authentication" finished-at="2018-02-16T09:38:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:example.NewTest2@4cc0edeb]" name="beforeMethod" is-config="true" duration-ms="0" started-at="2018-02-16T09:38:05Z" finished-at="2018-02-16T09:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:example.NewTest2@4cc0edeb]" name="afterMethod" is-config="true" duration-ms="0" started-at="2018-02-16T09:38:05Z" finished-at="2018-02-16T09:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="test(java.lang.String)[pri:0, instance:example.NewTest2@4cc0edeb]" name="test" duration-ms="1" started-at="2018-02-16T09:38:05Z" data-provider="Authentication" finished-at="2018-02-16T09:38:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:example.NewTest2@4cc0edeb]" name="afterMethod" is-config="true" duration-ms="1" started-at="2018-02-16T09:38:05Z" finished-at="2018-02-16T09:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:example.NewTest2@4cc0edeb]" name="afterClass" is-config="true" duration-ms="0" started-at="2018-02-16T09:38:05Z" finished-at="2018-02-16T09:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:example.NewTest2@4cc0edeb]" name="afterTest" is-config="true" duration-ms="0" started-at="2018-02-16T09:38:05Z" finished-at="2018-02-16T09:38:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- example.NewTest2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

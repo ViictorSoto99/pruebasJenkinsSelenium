@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="68050" started-at="2018-02-16T14:45:43Z" finished-at="2018-02-16T14:46:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="68050" started-at="2018-02-16T14:45:43Z" finished-at="2018-02-16T14:46:51Z">
+      <class name="example.Login_PageTest">
+        <test-method status="PASS" signature="start()[pri:0, instance:example.Login_PageTest@3cda1055]" name="start" is-config="true" duration-ms="9427" started-at="2018-02-16T09:45:43Z" finished-at="2018-02-16T09:45:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- start -->
+        <test-method status="PASS" signature="home()[pri:0, instance:example.Login_PageTest@3cda1055]" name="home" is-config="true" duration-ms="2511" started-at="2018-02-16T09:45:53Z" finished-at="2018-02-16T09:45:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home -->
+        <test-method status="PASS" signature="loginTest(java.lang.String)[pri:0, instance:example.Login_PageTest@3cda1055]" name="loginTest" duration-ms="1" started-at="2018-02-16T09:45:55Z" data-provider="Authentication" finished-at="2018-02-16T09:45:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="sign_off()[pri:0, instance:example.Login_PageTest@3cda1055]" name="sign_off" is-config="true" duration-ms="1992" started-at="2018-02-16T09:45:55Z" finished-at="2018-02-16T09:45:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign_off -->
+        <test-method status="PASS" signature="home()[pri:0, instance:example.Login_PageTest@3cda1055]" name="home" is-config="true" duration-ms="4447" started-at="2018-02-16T09:45:57Z" finished-at="2018-02-16T09:46:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home -->
+        <test-method status="PASS" signature="loginTest(java.lang.String)[pri:0, instance:example.Login_PageTest@3cda1055]" name="loginTest" duration-ms="0" started-at="2018-02-16T09:46:02Z" data-provider="Authentication" finished-at="2018-02-16T09:46:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="sign_off()[pri:0, instance:example.Login_PageTest@3cda1055]" name="sign_off" is-config="true" duration-ms="2138" started-at="2018-02-16T09:46:02Z" finished-at="2018-02-16T09:46:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign_off -->
+        <test-method status="PASS" signature="home()[pri:0, instance:example.Login_PageTest@3cda1055]" name="home" is-config="true" duration-ms="6265" started-at="2018-02-16T09:46:04Z" finished-at="2018-02-16T09:46:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home -->
+        <test-method status="PASS" signature="loginTest(java.lang.String)[pri:0, instance:example.Login_PageTest@3cda1055]" name="loginTest" duration-ms="0" started-at="2018-02-16T09:46:10Z" data-provider="Authentication" finished-at="2018-02-16T09:46:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="sign_off()[pri:0, instance:example.Login_PageTest@3cda1055]" name="sign_off" is-config="true" duration-ms="2445" started-at="2018-02-16T09:46:10Z" finished-at="2018-02-16T09:46:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign_off -->
+        <test-method status="PASS" signature="home()[pri:0, instance:example.Login_PageTest@3cda1055]" name="home" is-config="true" duration-ms="5787" started-at="2018-02-16T09:46:12Z" finished-at="2018-02-16T09:46:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home -->
+        <test-method status="PASS" signature="loginTest(java.lang.String)[pri:0, instance:example.Login_PageTest@3cda1055]" name="loginTest" duration-ms="1" started-at="2018-02-16T09:46:18Z" data-provider="Authentication" finished-at="2018-02-16T09:46:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="sign_off()[pri:0, instance:example.Login_PageTest@3cda1055]" name="sign_off" is-config="true" duration-ms="7332" started-at="2018-02-16T09:46:18Z" finished-at="2018-02-16T09:46:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign_off -->
+        <test-method status="PASS" signature="home()[pri:0, instance:example.Login_PageTest@3cda1055]" name="home" is-config="true" duration-ms="14602" started-at="2018-02-16T09:46:26Z" finished-at="2018-02-16T09:46:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home -->
+        <test-method status="PASS" signature="loginTest(java.lang.String)[pri:0, instance:example.Login_PageTest@3cda1055]" name="loginTest" duration-ms="0" started-at="2018-02-16T09:46:40Z" data-provider="Authentication" finished-at="2018-02-16T09:46:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="sign_off()[pri:0, instance:example.Login_PageTest@3cda1055]" name="sign_off" is-config="true" duration-ms="2332" started-at="2018-02-16T09:46:40Z" finished-at="2018-02-16T09:46:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign_off -->
+        <test-method status="PASS" signature="home()[pri:0, instance:example.Login_PageTest@3cda1055]" name="home" is-config="true" duration-ms="2250" started-at="2018-02-16T09:46:43Z" finished-at="2018-02-16T09:46:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- home -->
+        <test-method status="PASS" signature="loginTest(java.lang.String)[pri:0, instance:example.Login_PageTest@3cda1055]" name="loginTest" duration-ms="0" started-at="2018-02-16T09:46:45Z" data-provider="Authentication" finished-at="2018-02-16T09:46:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="sign_off()[pri:0, instance:example.Login_PageTest@3cda1055]" name="sign_off" is-config="true" duration-ms="5454" started-at="2018-02-16T09:46:45Z" finished-at="2018-02-16T09:46:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sign_off -->
+        <test-method status="PASS" signature="end()[pri:0, instance:example.Login_PageTest@3cda1055]" name="end" is-config="true" duration-ms="840" started-at="2018-02-16T09:46:50Z" finished-at="2018-02-16T09:46:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- end -->
+      </class> <!-- example.Login_PageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
