@@ -39,7 +39,6 @@ public class TakeCapture {
 	}
 	
 	public void vector (int n, int n1){
-		Object[][] data = new Object[n][n1];
 	}
 
 	static int cont = 1;
